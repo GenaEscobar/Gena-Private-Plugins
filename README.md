@@ -1,4 +1,4 @@
-# Gena-Private-Plugins
+# Gena-PrivatePlugins
 * **Scripter of CS:GO**
 * **Scripter of Alliedmodders**
 * **Configuring servers for 1 years**
