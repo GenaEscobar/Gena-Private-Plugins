@@ -3,7 +3,7 @@
 * **Scripter of Alliedmodders**
 * **Configuring servers for 1 years**
 
-**Server [Surf]: 45.235.99.101:27025**
+**Server [Surf]:** *in process*
 *(almost all my plugins are private, so my work can be seen on the server)*
 
 
