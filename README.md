@@ -11,6 +11,7 @@
 *first i want to finish the server*
 
 ## CLIENTS:
+* if you are interested just contact me
 * Payment via PayPal.
 * If you buy a plugin, you will have access to updates and support for free always (only 1 payment needed).
 * You will have sourcecode access. *(Explained)*
@@ -23,7 +24,10 @@
 [link](https://forums.alliedmods.net/showthread.php?t=337879)
 
 ***Private plugins***
-* **DeathMatchRedie** link *(Coming soon)*
+* *BETA* **DeathMatchRedie:** 
+a normal redie but you can play and kill people.
+
+*(demo video missing)*
 
 ***Other services***
 * Help you set up or config a server.
