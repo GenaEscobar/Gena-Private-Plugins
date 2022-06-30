@@ -20,11 +20,10 @@
 
 ## MY SERVICES:
 ***Public Plugins*** *(I don't put much performance)*
-* **ShowDamage**
-[link](https://forums.alliedmods.net/showthread.php?t=337879)
+* **ShowDamage** - [link](https://forums.alliedmods.net/showthread.php?t=337879)
 
 ***Private plugins***
-* *BETA* **DeathMatchRedie:** [link](https://www.youtube.com/watch?v=v6Hr49PSz5Q)
+* **DeathMatchRedie** *BETA* - [link](https://www.youtube.com/watch?v=v6Hr49PSz5Q)
 
 ***Other services***
 * Help you set up or config a server.
