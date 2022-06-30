@@ -13,7 +13,8 @@
 ## CLIENTS:
 * Payment via PayPal.
 * If you buy a plugin, you will have access to updates and support for free always (only 1 payment needed).
-* You will have sourcecode access.
+* You will have sourcecode access. *(Explained)*
+* you can not redistribute, nor sell to third parties.
 * You will need a account in https://gitlab.com.
 
 ## MY SERVICES:
