@@ -18,10 +18,9 @@
 * You will need a account in https://gitlab.com.
 
 ## MY SERVICES:
-***Public Plugins***
+***Public Plugins*** *(I don't put much performance)*
 * **DeathMatchRedie**
 [link](https://forums.alliedmods.net/showthread.php?t=337879)
-*(I don't put much performance)*
 
 ***Private plugins***
 * **DeathMatchRedie** link *(Coming soon)*
