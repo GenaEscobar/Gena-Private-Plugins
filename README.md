@@ -19,7 +19,7 @@
 
 ## MY SERVICES:
 ***Public Plugins*** *(I don't put much performance)*
-* **DeathMatchRedie**
+* **ShowDamage**
 [link](https://forums.alliedmods.net/showthread.php?t=337879)
 
 ***Private plugins***
