@@ -1,8 +1,8 @@
 # Gena-Private-Plugins
 
-**Server [Surf] ip
-Scripter of AlliedModders**
+**Server [Surf] ip**
+**Scripter of AlliedModders**
 * *(almost all my plugins are private, so my work can be seen on the server)
 
-###### El encabezado más pequeño
+## El segundo encabezado más largo
 
