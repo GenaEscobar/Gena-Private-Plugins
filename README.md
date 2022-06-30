@@ -17,19 +17,20 @@
 * You will need a account in https://gitlab.com.
 
 ## MY SERVICES:
-**Public Plugins**
-link
+***Public Plugins***
+* **DeathMatchRedie**
+[link](https://forums.alliedmods.net/showthread.php?t=337879)
 *(I don't put much performance)*
 
-**Private plugins**
-* **DeathMatchRedie** link
+***Private plugins***
+* **DeathMatchRedie** link *(Coming soon)*
 
-**Oher services**
+***Other services***
 * Help you set up or config a server.
 * Modifying existing plugins.
 * Coding private plugins on request.
 
 ## CONTACT ME
-* **Steam** link
+* **Steam** [link](https://steamcommunity.com/id/genaescobar)
 * **Discord** GenaEscobar#2338
 *(preferably)*
