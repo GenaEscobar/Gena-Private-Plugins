@@ -7,10 +7,6 @@
 
 *(almost all my plugins are private, so my work can be seen on the server)*
 
-
-## I am currently not available to make private plugins
-*first i want to finish the server*
-
 ## CLIENTS:
 * if you are interested just contact me
 * Payment via PayPal.
