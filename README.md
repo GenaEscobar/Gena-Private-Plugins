@@ -24,7 +24,7 @@
 **[see more](https://forums.alliedmods.net/search.php?searchid=38784931)**
 
 ***Private plugins***
-* **DeathMatchRedie** *BETA* - [link](https://www.youtube.com/watch?v=v6Hr49PSz5Q)
+* **DeathMatchRedie** - [link](https://www.youtube.com/watch?v=v6Hr49PSz5Q) *(more information in the description)*
 
 ***Other services***
 * Help you set up or config a server.
