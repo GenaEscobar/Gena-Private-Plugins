@@ -3,7 +3,7 @@
 * **Scripter of Alliedmodders**
 * **Configuring servers for 1 years**
 
-**Server [Surf]:** *in process*
+**Server [Surf]:** cs.traplife.gg:27025
 
 *(almost all my plugins are private, so my work can be seen on the server)*
 
@@ -20,7 +20,7 @@
 * You will need a account in https://gitlab.com.
 
 ## MY SERVICES:
-## **If you want to try one in the game just enter** [here](https://github.com/GenaEscobar/Gena-Private-Plugins#:~:text=for%201%20years-,Server%20%5BSurf%5D%3A,-in%20process)
+## **If you want to try one in the CS:GO just enter** [here](steam://connect/cs.traplife.gg:27025)
 
 ***Public Plugins*** *(I don't put much performance)*
 * **ShowDamage** - [link](https://forums.alliedmods.net/showthread.php?t=337879)
