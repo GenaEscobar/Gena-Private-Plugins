@@ -21,7 +21,7 @@
 ***Public Plugins*** *(I don't put much performance)*
 * **ShowDamage** - [link](https://forums.alliedmods.net/showthread.php?t=337879)
 
-**[see more](https://forums.alliedmods.net/search.php?searchid=38784931)**
+**[see more](http://www.sourcemod.net/plugins.php?cat=0&mod=-1&title=&author=Gena&description=&search=1)**
 
 ***Private plugins***
 * **DeathMatchRedie** - [link](https://www.youtube.com/watch?v=v6Hr49PSz5Q) *(more information in the description)*
