@@ -24,7 +24,7 @@
 **[see more](http://www.sourcemod.net/plugins.php?cat=0&mod=-1&title=&author=Gena&description=&search=1)**
 
 ***Private plugins***
-* **DeathMatchRedie** - [link](https://www.youtube.com/watch?v=v6Hr49PSz5Q) *(more information in the description)*
+* **DeathMatchRedie** v3.1 - [link](https://youtu.be/D8TyLaW5GNs) *(more information in the description)*
 
 ***Other services***
 * Help you set up or config a server.
