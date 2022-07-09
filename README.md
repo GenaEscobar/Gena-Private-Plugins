@@ -1,11 +1,11 @@
 # Gena-PrivatePlugins
 * **Scripter of CS:GO**
-* **Scripter of Alliedmodders**
 * **Configuring servers for 1 years**
 
-**Server [Surf]:** cs.traplife.gg:27025
 
-*(almost all my plugins are private, so my work can be seen on the server)*
+*my work can be seen on the server*
+
+**Server [Surf]:** cs.traplife.gg:27025
 
 ## CLIENTS:
 * if you are interested just contact me
