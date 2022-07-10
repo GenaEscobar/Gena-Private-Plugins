@@ -28,5 +28,3 @@
 * **Steam** [link](https://steamcommunity.com/id/genaescobar)
 * **Discord** GenaEscobar#2338
 *(preferably)*
-
-<a href="https://ibb.co/55pGN2L"><img src="https://i.ibb.co/FBZmSnz/dm-AVISOnegro.jpg" alt="dm-AVISOnegro" border="0"></a>
