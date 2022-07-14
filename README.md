@@ -16,7 +16,6 @@
 * You will need a account in https://gitlab.com.
 
 ## MY SERVICES:
-## MY SERVICES:
 ## **If you want to try one in the CS:GO just enter** [here](https://github.com/GenaEscobar/Gena-Private-Plugins#:~:text=Server%20%5BSurf%5D%3A%20cs.traplife.gg%3A27025)
 
 ***Public Plugins*** *(I don't put much performance)*
