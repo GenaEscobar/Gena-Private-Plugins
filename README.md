@@ -25,7 +25,7 @@
 
 ***Private plugins***
 * **DeathMatchRedie** v3.1 - [link](https://youtu.be/D8TyLaW5GNs) *(more information in the description)*
-* **AdvancedHideTemmate** v1.1 - *(the explanatory video is missing, but the plugin is done)*
+* **AdvancedHideTemmate** v1.1 - [link](https://github.com/GenaEscobar/HideTeammate/blob/main/README.md)
 
 ***Other services***
 * Help you set up or config a server.
