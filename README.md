@@ -29,7 +29,7 @@
 
 ***Other services***
 * Help you set up or config a server.
-* Modifying existing plugins.
+* Modifying simple existing plugins.
 * Coding private plugins on request.
 
 ## CONTACT ME
